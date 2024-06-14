@@ -1,0 +1,6 @@
+*.mp4
+*.png
+
+# IDE Folders/Files
+.idea/
+.vscode/
